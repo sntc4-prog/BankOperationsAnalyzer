@@ -1,3 +1,5 @@
+package ru.borisov.bank;
+
 import java.util.List;
 
 public interface BankStatementParser {

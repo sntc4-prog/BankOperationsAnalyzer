@@ -1,3 +1,5 @@
+package ru.borisov.bank;
+
 import java.time.LocalDate;
 import java.util.Objects;
 
@@ -26,7 +28,7 @@ public class BankTransaction {
 
     @Override
     public String toString() {
-        return "BankTransaction{" +
+        return "bankStatementAnalyzer.BankTransaction{" +
                 "date=" + date +
                 ", amount=" + amount +
                 ", description='" + description + '\'' +

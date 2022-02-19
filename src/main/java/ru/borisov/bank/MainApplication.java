@@ -1,3 +1,4 @@
+package ru.borisov.bank;
 import java.io.IOException;
 
 public class MainApplication {
